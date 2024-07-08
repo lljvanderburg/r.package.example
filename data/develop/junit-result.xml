@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="hello" timestamp="2024-07-08T09:17:25Z" hostname="fa2f96999b29" tests="3" skipped="0" failures="0" errors="0" time="0.224">
+    <testcase time="0.011" classname="hello" name="hello_works"/>
+    <testcase time="0.201" classname="hello" name="hello_cli_works"/>
+    <testcase time="0.012" classname="hello" name="fix_me_"/>
+  </testsuite>
+</testsuites>
